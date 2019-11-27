@@ -30,7 +30,7 @@
 
                             </form>
                             <div class="mt-3 text-center">
-                                <a class="text-muted" href="signin.html"><u>Sign in</u></a>
+                                <a class="text-muted" href="{{ route('signIn') }}"><u>Sign in</u></a>
                             </div>
                         </div>
                     </div>

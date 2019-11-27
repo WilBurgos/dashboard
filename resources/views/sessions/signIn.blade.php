@@ -35,7 +35,7 @@
                             </form>
 
                             <div class="mt-3 text-center">
-                                <a href="forgot.html" class="text-muted"><u>Forgot Password?</u></a>
+                                <a href="{{ route('forgot') }}" class="text-muted"><u>Forgot Password?</u></a>
                             </div>
                         </div>
                     </div>
